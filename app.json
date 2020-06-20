@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "Zigantic",
+    "slug": "Zigantic",
+    "privacy": "public",
+    "sdkVersion": "35.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.4",
+    "orientation": "portrait",
+    "icon": "./assets/images/ziganticlogo.png",
+    "splash": {
+      "image": "./assets/images/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.zigantic.game",
+      "buildNumber": "4",
+      "infoPlist": {
+        "NSCameraUsageDescription": "This app uses the photos for set profile image."
+      }
+    },
+    "android": {
+      "package": "com.zigantic.game",
+      "versionCode": 4
+    },
+    "description": ""
+  }
+}
