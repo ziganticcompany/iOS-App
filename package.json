@@ -22,7 +22,7 @@
     "expo-font": "~7.0.0",
     "expo-image-picker": "^8.0.2",
     "firebase": "^7.15.3",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "moment": "^2.24.0",
     "native-base": "^2.8.2",
     "nodemailer": "^6.4.5",
